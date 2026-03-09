@@ -6,6 +6,7 @@
 <img width="200" height="500" alt="Screenshot_20250320-203815" src="https://github.com/user-attachments/assets/ef33b996-883c-4048-880f-f9de91b6ac11" />
 <img width="200" height="500" alt="Screenshot_20250320-204113" src="https://github.com/user-attachments/assets/ac81c470-e2af-4708-8d56-112f336b8b45" />
 <br/><br/>
+
 - Images below shows the output of EV Operator <br/>
 <img width="200" height="500" alt="Screenshot_20250320-204152" src="https://github.com/user-attachments/assets/3abe44bb-5b0a-4c85-9310-f45bbe2a475e" />
 <img width="200" height="500" alt="Screenshot_20250320-203955" src="https://github.com/user-attachments/assets/fa12284a-174e-4de8-8985-5214987dd6ac" />
